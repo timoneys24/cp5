@@ -1,0 +1,33 @@
+head {background-color: #F9FBF0;
+    color: #A3BFE1;
+    margin: 0;
+}
+body {
+    background-color: #F9FBF0;
+    color: #A3BFE1;
+    margin: 0;
+}
+h1 {
+    color: #A3BFE1;
+    font size: 20px;
+}
+p.one {
+    color:#AB73A1;
+}
+h2 {
+    color: #A3BFE1;
+    font size: 20px;
+}
+p.two {
+    color: #AB73A1;
+}
+img { 
+    border: 3px solid #000000;
+}
+p.three {
+    border-left: 20px solid #AB73A1;
+    color:  #A3BFE1;
+}
+a:visited {
+    color: #C8EDFF;
+}
